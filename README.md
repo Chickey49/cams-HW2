@@ -25,9 +25,11 @@ Each page is linked within the webpage.
 
 # Installation
 
-To use the webpage you can use {link}
+To use the webpage you can use: 
+https://chickey49.github.io/cams-HW2/
 
-You can also clone the repo via github {link}
+You can also clone the repo via github: 
+https://github.com/Chickey49/cams-HW2
 
 
 # Licensing
